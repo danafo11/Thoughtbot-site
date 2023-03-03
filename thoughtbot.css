@@ -1,0 +1,97 @@
+body{
+    background-color: rgb(28, 27, 27);
+    color: white;
+}
+
+.parath{
+    margin-bottom: -25px;
+    margin-left: 50px;
+}
+.thoughtbot{
+    text-decoration: none;
+    color: rgb(234, 15, 15);
+    font-size: 25px;
+}
+
+.headings{
+    margin-left: 60%;
+    word-spacing: 10px;
+    margin-bottom: 20px;
+}
+
+.redonhover{
+    text-decoration: none;
+}
+
+.redonhover:hover{
+    color: red;
+}
+
+.hr{
+    border-color: black;
+}
+
+.howwehelp{
+    text-decoration: none;
+    word-spacing: 1px;
+    color: white;
+    background-color: blueviolet;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+.para1{
+    text-align: center;
+}
+
+.creamcolor{
+    color: rgb(233, 233, 143);
+    text-decoration: none;
+}
+
+.creamcolor:hover{
+    color: white;
+}
+
+#tdunderline{
+    text-decoration: underline;
+}
+
+.creamonhover{
+    text-decoration: none;
+    margin-left: 30%;
+    color: white;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.creamonhover:hover{
+    color: rgb(233, 233, 143);
+}
+
+.para2{
+    text-align: justify;
+    margin-left: 30%;
+}
+.para3{
+    margin-left: 30%;
+}
+
+.ccenter{
+    margin-left: 30%;
+}
+
+.wordspacing{
+    word-spacing: 15px;
+}
+
+.bgblack{
+    background-color: black;
+    padding: 5px;
+    color: white;
+}
